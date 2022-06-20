@@ -29,20 +29,20 @@ Email / Website / LinkedIn / GitHub
 - 70-346 : Managing Office 365 Identities and Requirements 
 
 ## Trainings and Activities
-#### JLPT Preparation                             — Accenture Inc. | Philippines
-#### CoachAbility                                 — Accenture Inc. | Philippines
-#### ITILv4                                       — Accenture Inc. | Philippines
-#### Microsoft Ignite                             — Microsoft Corporation (Held at Dubai, UAE) 
-#### Design Thinking                              — Accenture Inc. | Philippines
-#### AGILE University                             — Accenture Inc. | Philippines
-#### Customer Focus Approach                      — Ingram Micro Philippines
-#### CCBoot Diskless Solutions                    — Easy PC Philippines | Philippines
-#### Managing Office 365 Identities and Services  — NTT Data | Philippines (Formerly Wizard Group)   
-#### ITILv3                                       — MAPUA Institute of Technology - Makati | Philippines
-#### UNIX/LINUX System Administration             — MAPUA Institute of Technology - Makati | Philippines
-#### UNIX/LINUX Fundamentals                      — MAPUA Institute of Technology - Makati | Philippines
-#### CCNA : Routing and Switching Essentials      — MAPUA Institute of Technology - Makati | Philippines
-#### CCNA : Introduction to Networks              — MAPUA Institute of Technology - Makati | Philippines
+- JLPT Preparation                             — Accenture Inc. | Philippines
+- CoachAbility                                 — Accenture Inc. | Philippines
+- ITILv4                                       — Accenture Inc. | Philippines
+- Microsoft Ignite                             — Microsoft Corporation (Held at Dubai, UAE) 
+- Design Thinking                              — Accenture Inc. | Philippines
+- AGILE University                             — Accenture Inc. | Philippines
+- Customer Focus Approach                      — Ingram Micro Philippines
+- CCBoot Diskless Solutions                    — Easy PC Philippines | Philippines
+- Managing Office 365 Identities and Services  — NTT Data | Philippines (Formerly Wizard Group)   
+- ITILv3                                       — MAPUA Institute of Technology - Makati | Philippines
+- UNIX/LINUX System Administration             — MAPUA Institute of Technology - Makati | Philippines
+- UNIX/LINUX Fundamentals                      — MAPUA Institute of Technology - Makati | Philippines
+- CCNA : Routing and Switching Essentials      — MAPUA Institute of Technology - Makati | Philippines
+- CCNA : Introduction to Networks              — MAPUA Institute of Technology - Makati | Philippines
 
 ## AWARDS
 #### GANTIMPALA Award (2019 Annual) — AGILA, Execute with Agility   — Accenture Inc. | Philippines
