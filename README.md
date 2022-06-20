@@ -8,26 +8,25 @@ Email / Website / LinkedIn / GitHub
 #### Microsoft 365 Premier Engineer @ [Sherweb | Canada](https://www.sherweb.com/en-eu/)
 
 #### Microsoft 365 Premier Support @ [Accenture Inc. | Philippines](https://www.accenture.com/ph-en)
+- Microsoft 365 SME 
+- Microsoft 365 Partner Support
+- Microsoft 365 Support
 
-  Microsoft 365 SME 
-  Microsoft 365 Partner Support
-  Microsoft 365 Support
+#### Cloud Engineer L2 / Customer Relation Support @ [Ingram Micro Inc | Philippines](https://corp.ingrammicro.com/)
 
-#### Cloud Engineer L2 + Customer Relation Engineer @ [Ingram Micro Inc | Philippines](https://corp.ingrammicro.com/)
-
-#### Technical Support Representative Tier 2 @ [Concentrix formerly CONVERGYS Inc. | Philippines](https://www.concentrix.com/) 
+#### Technical Support Representative Tier 2 @ [CONVERGYS Inc. | Philippines](https://www.concentrix.com/) 
 
 ## Education
 #### Bachelor of Technology, Automotive Engineering
 #### TECHNOLOGICAL UNIVERSITY OF THE PHILIPPINES
 
 ## IT Certifications 
-#### AZ-900 : Microsoft Azure Fundamentals 
-#### MS-100 : Microosft 365 Identity and Services
-#### MS-900 : Microsoft 365 Fundamentals
-#### 70-365 : Designing and Deploying Microsoft Exchange
-#### 70-347 : Enabling Office 365 Services
-#### 70-346 : Managing Office 365 Identities and Requirements 
+- AZ-900 : Microsoft Azure Fundamentals 
+- MS-100 : Microosft 365 Identity and Services
+- MS-900 : Microsoft 365 Fundamentals
+- 70-365 : Designing and Deploying Microsoft Exchange
+- 70-347 : Enabling Office 365 Services
+- 70-346 : Managing Office 365 Identities and Requirements 
 
 ## Trainings and Activities
 #### JLPT Preparation                             — Accenture Inc. | Philippines
