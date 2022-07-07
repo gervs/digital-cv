@@ -6,19 +6,19 @@ Email / Website / [LinkedIn](https://www.linkedin.com/in/gervimartiumali/) / [Gi
 ## EXPERIENCE 
 
 #### Microsoft 365 Premier Engineer 
-#### @ [Sherweb | Canada](https://www.sherweb.com/en-eu/)
+@ [Sherweb | Canada](https://www.sherweb.com/en-eu/) <br />
 
 #### Microsoft 365 Premier Support 
-#### @ [Accenture Inc. | Philippines](https://www.accenture.com/ph-en)
-Microsoft 365 SME 
-Microsoft 365 Partner Support
-Microsoft 365 Support
+@ [Accenture Inc. | Philippines](https://www.accenture.com/ph-en) <br />
+Microsoft 365 SME <br />
+Microsoft 365 Partner Support <br />
+Microsoft 365 Support <br />
 
 #### Cloud Engineer L2 / Customer Relation Support 
-#### @ [Ingram Micro Inc | Philippines](https://corp.ingrammicro.com/)
+@ [Ingram Micro Inc | Philippines](https://corp.ingrammicro.com/) <br />
 
 #### Technical Support Representative Tier 2 
-#### @ [CONVERGYS Inc. | Philippines](https://www.concentrix.com/) 
+#### @ [CONVERGYS Inc. | Philippines](https://www.concentrix.com/) <br />
 
 ## EDUCATION
 #### Bachelor of Technology, Automotive Engineering
