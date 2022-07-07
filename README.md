@@ -1,6 +1,6 @@
 
 
-# Gervi Marti Umali
+# GERVI MARTI T. UMALI
 Email / Website / [LinkedIn](https://www.linkedin.com/in/gervimartiumali/) / [GitHub](https://github.com/gervs)
 
 ## EXPERIENCE 
@@ -22,47 +22,46 @@ Microsoft 365 Support <br />
 TECHNOLOGICAL UNIVERSITY OF THE PHILIPPINES <br />
 
 ## IT Certifications 
-AZ-900 : Microsoft Azure Fundamentals <br />
-MS-100 : Microosft 365 Identity and Services <br />
-MS-900 : Microsoft 365 Fundamentals <br />
-70-365 : Designing and Deploying Microsoft Exchange <br />
-70-347 : Enabling Office 365 Services <br />
-70-346 : Managing Office 365 Identities and Requirements <br />
+**AZ-900** : Microsoft Azure Fundamentals <br />
+**MS-100** : Microosft 365 Identity and Services <br />
+**MS-900** : Microsoft 365 Fundamentals <br />
+**70-365** : Designing and Deploying Microsoft Exchange <br />
+**70-347** : Enabling Office 365 Services <br />
+**70-346** : Managing Office 365 Identities and Requirements <br />
 
 ## Trainings and Activities
-Accenture Inc. Philippines — JLPT Preparation <br />
-Accenture Inc. Philippines — CoachAbility <br />
-Accenture Inc. Philippines — ITILv4 <br />
+Accenture Inc. Philippines — **JLPT Preparation** <br />
+Accenture Inc. Philippines — **CoachAbility** <br />
+Accenture Inc. Philippines — **ITILv4** <br />
 Microsoft Ignite United Arab Emirates — Microsoft Ignite <br />
-Accenture Inc. Philippines — Design Thinking <br />
-Accenture Inc. Philippines — AGILE University <br />
-Ingram Micro Inc. Philippines — Customer Focus Approach <br />
-EASY PC Philippines — CCBoot Diskless Solutions  <br />
-NTT Data Philippines (formerly Wizard Group)  — Office 365 : Managing Office 365 Identities and Services <br />
-MAPUA — ITILv3 <br />
-MAPUA — UNIX/LINUX System Administration <br />
-MAPUA — UNIX/LINUX Fundamentals <br />
-MAPUA — CCNA : Routing and Switching Essentials <br />
-MAPUA — CCNA : Introduction to Networks <br />
+Accenture Inc. Philippines — **Design Thinking** <br />
+Accenture Inc. Philippines — **AGILE University** <br />
+Ingram Micro Inc. Philippines — **Customer Focus Approach** <br />
+EASY PC Philippines — **CCBoot Diskless Solutions**  <br />
+NTT Data Philippines (formerly Wizard Group)  — **Office 365 : Managing Office 365 Identities and Services** <br />
+MAPUA — **ITILv3** <br />
+MAPUA — **UNIX/LINUX System Administration** <br />
+MAPUA — **UNIX/LINUX Fundamentals** <br />
+MAPUA — **CCNA : Routing and Switching Essentials** <br />
+MAPUA — **CCNA : Introduction to Networks** <br />
 
 
 ## AWARDS
-Accenture Inc. — GANTIMPALA Award (2019 Annual) — AGILA, Execute with Agility <br />
-Accenture Inc. — GANTIMPALA Award (2019 4th Quarter) <br />                            
-CONVERGYS Inc. — AT&T Best of the Best Award <br />
-CONVERGYS Inc. — AT&T Customer Rule Award <br />                                   
-CONVERGYS Inc. — AT&T Best Practies Award <br />                                
+Accenture Inc. — **GANTIMPALA Award (2019 Annual) — AGILA, Execute with Agility** <br />
+Accenture Inc. — **GANTIMPALA Award (2019 4th Quarter)** <br />
+CONVERGYS Inc. — **AT&T Best of the Best Award** <br />
+CONVERGYS Inc. — **AT&T Customer Rule Award** <br />
+CONVERGYS Inc. — **AT&T Best Practies Award** <br />                                
 
 ## LANGUAGES
-Filipino (Native) <br />
-English (Intermediate) <br />
-Japanese (Basic) <br />
-French (Learning) <br />
-
+**Filipino** (Native) <br />
+**English** (Intermediate) <br />
+**日本語** (Basic) <br />
+**Français** (Learning) <br />
 
 ## PROGRAMMING LANGUAGE
-PowerShell (Intermediate) <br />
-Python (Learning) <br />
-HTML (Learning) <br />
-JavaScript (Learning) <br />
+**PowerShell - M365** (Intermediate) <br />
+**Python** (Learning) <br />
+**HTML** (Learning) <br />
+**JavaScript** (Learning) <br />
 
