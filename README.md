@@ -5,8 +5,7 @@ Email / Website / [LinkedIn](https://www.linkedin.com/in/gervimartiumali/) / [Gi
 
 ## EXPERIENCE 
 
-#### Microsoft 365 Premier Engineer 
-@ [Sherweb | Canada](https://www.sherweb.com/en-eu/) <br />
+#### Microsoft 365 Premier Engineer @ [Sherweb | Canada](https://www.sherweb.com/en-eu/) <br />
 
 #### Microsoft 365 Premier Support @ [Accenture Inc. | Philippines](https://www.accenture.com/ph-en) <br />
 Microsoft 365 SME <br />
